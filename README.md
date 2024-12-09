@@ -1,6 +1,6 @@
 # Movie-Recommendation-Boltzmann-Machines
 
-Applies Collaborative using Restricted Boltzmann Machines to develop a movie recommender system.
+Applies Collaborative filtering using Restricted Boltzmann Machines to develop a movie recommender system.
 
 # Datasets used:
 Movies Lens dataset
